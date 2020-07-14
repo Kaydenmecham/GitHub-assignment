@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 // Kayden Mecham
 public class VarDataTypeAssignment {
 
